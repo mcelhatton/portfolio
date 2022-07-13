@@ -20,7 +20,7 @@ export const App = () => {
         <Router>
           <HelmetMeta />
           <Switch>
-              <Route path="/" exact component={Home} />
+              <Route path="/portfolio" exact component={Home} />
               {/* <Route path="/resume" component={Resume} /> */}
               <Route path="*" component={PageNotFound} />
           </Switch>
