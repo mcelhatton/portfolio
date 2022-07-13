@@ -2,9 +2,9 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "homepage": "https://mcelhatton.github.io/portfolio/",
-  "description": "A clean and customizable ReactJS portfolio template for fellow developers. Credits to Jo Lienhoop!",
-  "repository": "https://github.com/taniyow/react-portfolio",
-  "author": "Mark Tan <markcmtan@gmail.com>",
+  "description": "work portfolio",
+  "repository": "https://github.com/mcelhatton/portfolio",
+  "author": "Colin McElhatton <colin@mdd.io>",
   "license": "MIT",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
