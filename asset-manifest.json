@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0f9bf06d.css",
+    "main.js": "/portfolio/static/js/main.f17bc8df.js",
+    "static/js/333.ff23a92f.chunk.js": "/portfolio/static/js/333.ff23a92f.chunk.js",
+    "static/media/profile.png": "/portfolio/static/media/profile.0b97d3583138299c8247.png",
+    "static/media/lacalle.png": "/portfolio/static/media/lacalle.46e4f32c9b4d72a6fb3a.png",
+    "static/media/startup.png": "/portfolio/static/media/startup.22dae5e61e55b93dab4b.png",
+    "static/media/lofo.png": "/portfolio/static/media/lofo.3fa6c321cc9ec54fd49d.png",
+    "static/media/react-portfolio.png": "/portfolio/static/media/react-portfolio.50b65e6c3a2a78393709.png",
+    "static/media/veritru.png": "/portfolio/static/media/veritru.7176315ff5f5b96d88d5.png",
+    "static/media/mcelhatton-resume.pdf": "/portfolio/static/media/mcelhatton-resume.e040baff07be01771bd9.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.0f9bf06d.css.map": "/portfolio/static/css/main.0f9bf06d.css.map",
+    "main.f17bc8df.js.map": "/portfolio/static/js/main.f17bc8df.js.map",
+    "333.ff23a92f.chunk.js.map": "/portfolio/static/js/333.ff23a92f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f9bf06d.css",
+    "static/js/main.f17bc8df.js"
+  ]
+}
