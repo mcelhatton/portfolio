@@ -1,0 +1,131 @@
+{
+    "basics": {
+        "name": "Colin McElhatton",
+        "label": "Tech Founder",
+        "email": "colin@mdd.io",
+        "phone": "(612) 805-6226",
+        "picture": "mt.png",
+        "x_title": "Hello, I'm",
+        "job1": "Full Stack",
+        "job2": "Developer",
+        "description": "Hello! I'm Colin! Your web development enthusiast. Always down for something new and challenging! Just like markdown, I'm here to help you create beautifully formatted websites.",
+        "summary": "based in Minneapolis, United States.",
+        "keywords": "personal,website,portfolio,template,kit,colin,mcelhatton,webdev,web,developer,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp,markdown",
+        "url": "https://www.mdd.io",
+        "location": {
+            "address": "XX XXXXXstreet",
+            "postalCode": "XXXXX",
+            "city": "Minneapolis",
+            "country": "United States",
+            "countryCode": "USA",
+            "region": "Minnesota"
+        },
+        "profiles": [
+            {
+                "network": "Google",
+                "username": "mobiledealerdata@gmail.com",
+                "url": "mailto:colin@mdd.io",
+                "x_icon": "fab fa-google"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "colin-mcelhatton",
+                "url": "https://www.linkedin.com/in/colin-mcelhatton-04b08221/",
+                "x_icon": "fab fa-linkedin-in"
+            },
+            {
+                "network": "GitHub",
+                "username": "mcelhatton",
+                "url": "https://github.com/mcelhatton",
+                "x_icon": "fab fa-github"
+            },
+            {
+                "network": "GitLab",
+                "username": "mcelhatton",
+                "url": "https://gitlab.com/mcelhatton",
+                "x_icon": "fab fa-gitlab"
+            },
+            {
+                "network": "Discord",
+                "username": "colinm#5609",
+                "url": "https://discord.com",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "Mobile Dealer Data",
+            "position": "Founder",
+            "website": "http://www.mdd.io",
+            "startDate": "2012-01-01",
+            "endDate": "Present",
+            "summary": "Description...",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "website": "http://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description...",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Columbia",
+            "area": "Software Development",
+            "studyType": "Full Stack Development",
+            "startDate": "2022-02-01",
+            "endDate": "2022-08-30",
+            "gpa": "4.0",
+            "courses": ["DB1101 - Full Stack Development"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "website": "http://publication.com",
+            "summary": "Description..."
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": ["HTML", "CSS", "Javascript"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Creating industry defining products",
+            "keywords": ["Create", "First"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference..."
+        }
+    ]
+}
