@@ -1,22 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.0f9bf06d.css",
-    "main.js": "/portfolio/static/js/main.208ac155.js",
-    "static/js/333.ff23a92f.chunk.js": "/portfolio/static/js/333.ff23a92f.chunk.js",
+    "main.js": "/portfolio/static/js/main.ebc14fd3.js",
+    "static/js/333.771c2324.chunk.js": "/portfolio/static/js/333.771c2324.chunk.js",
     "static/media/profile.png": "/portfolio/static/media/profile.0b97d3583138299c8247.png",
-    "static/media/lacalle.png": "/portfolio/static/media/lacalle.46e4f32c9b4d72a6fb3a.png",
-    "static/media/startup.png": "/portfolio/static/media/startup.22dae5e61e55b93dab4b.png",
-    "static/media/lofo.png": "/portfolio/static/media/lofo.3fa6c321cc9ec54fd49d.png",
+    "static/media/dateNight.png": "/portfolio/static/media/dateNight.714dc76f98658043a321.png",
+    "static/media/admindashboard.png": "/portfolio/static/media/admindashboard.1c3c673ba5588b4e877a.png",
     "static/media/react-portfolio.png": "/portfolio/static/media/react-portfolio.50b65e6c3a2a78393709.png",
-    "static/media/veritru.png": "/portfolio/static/media/veritru.7176315ff5f5b96d88d5.png",
     "static/media/mcelhatton-resume.pdf": "/portfolio/static/media/mcelhatton-resume.e040baff07be01771bd9.pdf",
     "index.html": "/portfolio/index.html",
     "main.0f9bf06d.css.map": "/portfolio/static/css/main.0f9bf06d.css.map",
-    "main.208ac155.js.map": "/portfolio/static/js/main.208ac155.js.map",
-    "333.ff23a92f.chunk.js.map": "/portfolio/static/js/333.ff23a92f.chunk.js.map"
+    "main.ebc14fd3.js.map": "/portfolio/static/js/main.ebc14fd3.js.map",
+    "333.771c2324.chunk.js.map": "/portfolio/static/js/333.771c2324.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f9bf06d.css",
-    "static/js/main.208ac155.js"
+    "static/js/main.ebc14fd3.js"
   ]
 }
