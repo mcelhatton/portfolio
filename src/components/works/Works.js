@@ -9,10 +9,8 @@ import './Works.css';
 
 // Import ../../assets/recentprojects/
 import Portfolio from '../../assets/recentprojects/react-portfolio.png';
-import Veritru from '../../assets/recentprojects/veritru.png';
-import Lofo from '../../assets/recentprojects/lofo.png';
-import Startup from '../../assets/recentprojects/startup.png';
-import Lacalle from '../../assets/recentprojects/lacalle.png';
+import DateNight from '../../assets/recentprojects/dateNight.png';
+import AdminDashboard from "../../assets/recentprojects/admindashboard.png";
 
 const useStyles = makeStyles((theme) => ({
   main: {
@@ -40,7 +38,7 @@ export const Works = () => {
       description: `Collaborative project at Columbia University.  Our team built a platform to help developers communicate
       better and more efficiently.`,
       alter: 'Admin Dashboard',
-      image: `${Portfolio}`,
+      image: `${AdminDashboard}`,
     },
     { 
       id: 3,
@@ -48,7 +46,7 @@ export const Works = () => {
       description: `Collaborative project at Columbia University.  Our team built a web application to help to help
       couples plan a date night.`,
       alter: 'Date Night',
-      image: `${Portfolio}`,
+      image: `${DateNight}`,
     },
   ]);
 
