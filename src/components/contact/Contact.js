@@ -76,6 +76,7 @@ export const Contact = () => {
                   size="small"
                   variant="filled"
                   name="email"
+                  verify 
                   className={classes.formfield}
                 />
                 <TextField
